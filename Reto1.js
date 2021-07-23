@@ -3,7 +3,7 @@
 var op1 = "piedra";
 var op2 = "papel";
 var op3 = "tijera";
-valores = [op1, op2, op3];
+var valores = [op1, op2, op3];
 var aleatorio = Math.random();
 
 function numCPU(aleatorio) {
